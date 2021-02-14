@@ -9,7 +9,11 @@ android {
     defaultConfig {
         applicationId "com.example.yy"
         minSdkVersion 21
+<<<<<<< HEAD
         targetSdkVersion 30
+=======
+        targetSdkVersion 28
+>>>>>>> Initial commit
         versionCode 1
         versionName "1.0"
 
@@ -26,7 +30,10 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+<<<<<<< HEAD
 
+=======
+>>>>>>> Initial commit
 }
 apply plugin: 'com.google.gms.google-services'
 
@@ -42,8 +49,12 @@ dependencies {
     implementation 'androidx.cardview:cardview:1.0.0'
     implementation 'com.google.firebase:firebase-auth:19.3.2'
     implementation 'com.google.firebase:firebase-database:19.2.1'
+<<<<<<< HEAD
     implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.2.0'
     implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0'
+=======
+    implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.0.0'
+>>>>>>> Initial commit
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
@@ -51,4 +62,9 @@ dependencies {
     implementation "androidx.cardview:cardview:1.0.0"
     //adding circle image view
     implementation 'de.hdodenhof:circleimageview:3.1.0'
+<<<<<<< HEAD
 }
+=======
+    implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.1.0"
+}
+>>>>>>> Initial commit
