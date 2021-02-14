@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "516797656747",
+    "firebase_url": "https://youssef-and-youssef-default-rtdb.firebaseio.com",
+    "project_id": "youssef-and-youssef",
+    "storage_bucket": "youssef-and-youssef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516797656747:android:2691a8fb85cea5996291ee",
+        "android_client_info": {
+          "package_name": "com.example.yy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516797656747-upj3jd9ca74civ8hcevnv1umqp3afvto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yy",
+            "certificate_hash": "5e100bb2282b3d3ea9bbebe0e0a2f933fdaae2d7"
+          }
+        },
+        {
+          "client_id": "516797656747-9o1pldscs9frnhdeo9b9g04mnsagcn1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOt-pXbEUNHyxdKx0g8lm8vKMsx5wO8_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516797656747-9o1pldscs9frnhdeo9b9g04mnsagcn1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
