@@ -39,8 +39,6 @@
                         app:borderWidth="0dp"
                         android:src="@drawable/ic_arrow_back_24"
                         android:stateListAnimator="@anim/animation_card"></com.google.android.material.floatingactionbutton.FloatingActionButton>
-
-<<<<<<< HEAD
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -133,11 +131,7 @@
                                 <TextView
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
-<<<<<<< HEAD
                                     android:text="Flutter"
-=======
-                                    android:text="flutter"
->>>>>>> Initial commit
                                     android:textSize="16sp"
                                     android:textColor="@color/black"
                                     android:layout_below="@+id/imageView1"
@@ -241,10 +235,9 @@
                                     android:textSize="16sp"
                                     android:layout_below="@+id/imageView3"
                                     android:layout_centerHorizontal="true"
-<<<<<<< HEAD
-=======
+
                                     android:layout_marginTop="10dp"
->>>>>>> Initial commit
+
                                     android:layout_marginBottom="10dp"
                                     />
 
