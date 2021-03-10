@@ -13,7 +13,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.YY">
-        <activity android:name=".desktop_course"></activity>
+        <activity android:name=".splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".desktop_course" />
         <activity android:name=".webviewF1" />
         <activity android:name=".cyber_security_course" />
         <activity android:name=".web_course" />

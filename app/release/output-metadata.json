@@ -5,11 +5,7 @@
     "kind": "Directory"
   },
   "applicationId": "com.example.yy",
-<<<<<<< HEAD
   "variantName": "release",
-=======
-  "variantName": "processReleaseResources",
->>>>>>> Initial commit
   "elements": [
     {
       "type": "SINGLE",
